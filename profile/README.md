@@ -1,10 +1,9 @@
-## Hi there 👋
-
+<h2>Hi there 👋 | We are Django Developers of <a href='http://www.hsu.ac.ir/'>HSU</a></h2> 
+<br>
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🏢 Our **organization** is a group of <a href='https://github.com/django'>Django</a> developers trying to develop <a href='https://github.com/django'>Django</a> projects.<br>
+🌈 Contribution guidelines: Email us at the <a href='https://github.com/hakimdjango'>top</a> of the page to **collaborate** with us.<br>
+👩‍💻 Our main members meet each other in person, but this does not mean that we do not cooperate with others.<br>
+🍿 Our team eats Python 🐍 for breakfast.<br>
